@@ -19,4 +19,4 @@ El còdi s'ha escrit dirèctament desde aquest repositòri Github (codificació 
     1. Inclou un peu d'imatge amb la font d'on s'ha obtingut.
   - [x] Llista d'enllaços de pàgines font on hi ha l'informació ampliada.
   - [x] Pàgina validada vía [W3 Markup Validation](https://validator.w3.org)
-     * No admét l'atribut *align*
+  ![w3MarkupVal](scr-w3.png)
