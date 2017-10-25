@@ -1,7 +1,7 @@
 # LMSGI_02
 ### Introducció HTML
 
-Es presenta la següent pàgina sobre aspèctes narratius de dins la literatura fantàstica:
+Es presenta la següent pàgina sobre alguns aspèctes narratius de la literatura fantàstica:
 ##### [Les tres lleis de la màgia de Brandon Sanderson](https://rawgit.com/2aven/LMSGI_02/master/index.html)
 
 El còdi s'ha escrit dirèctament desde aquest repositòri Github (codificació de text compatible UTF-8), i pretén seguir el format HTML5 junt amb critèris de bona pràctica de còdi.
