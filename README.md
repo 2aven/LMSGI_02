@@ -10,10 +10,10 @@ El còdi s'ha escrit dirèctament desde aquest repositòri Github (codificació 
   - [x] Rètol informatiu i breu descripció.
   - [x] Taula on es presenta el contingut del tema.
   - [x] Imatge: il·lustració d'un personatge de l'autor esmentat.
-    1. S'ha editat l'imatge en Gimp per reduir les dimensions i resolució a 480x320px a 72ppp
+    1. S'ha editat la imatge en Gimp per reduir les dimensions i resolució a 480x320px a 72ppp
     1. Optimització mitjançant l'eina disponible al portal [Tinypng.com](https://tinypng.com), que ha reduit el tamany de l'arxiu de 149.6kb a 76.4kb, que permet que la pàgina quedi dins el marge límit de 100kb
     1. Pujada dins el directòri */img* del projecte.
-    1. La ruta de l'imatge és relativa: /img/*(nom_de_l'arxiu)*
+    1. La ruta de la imatge és relativa: /img/*(nom_de_l'arxiu)*
     1. Inclou un peu d'imatge amb la font d'on s'ha obtingut.
   - [x] Llista d'enllaços de pàgines font on hi ha l'informació ampliada.
   - [x] Pàgina validada vía [W3 Markup Validation](https://validator.w3.org)
